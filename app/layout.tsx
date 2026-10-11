@@ -3,9 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'TraceGuard — Security Intelligence',
-  description: 'Architecture-aware security intelligence for modern software teams.',
-  generator: 'v0.app',
+  title: 'TraceGuard - Software Security & Risk Intelligence',
+  description: 'Analyse software repositories to identify vulnerabilities, exposed secrets, insecure configurations, and dependency risks. Prioritise remediation and track application security posture over time.',
   icons: {
     icon: [
       {
